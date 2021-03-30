@@ -24,7 +24,7 @@ THEN that will be shown on the page, and added to their transaction history when
 
 You can add outgoings and income in the app, even when you are offline. Simply keep track of your travel budget
 1. ### Index Page 
-  * ![Index Page](https://github.com/marcojansen-gmx/Online-Offline-Budget-Trackers-with-PWA-and-IndexDB/blob/main/assets/budget.png?raw=true)
+  * ![Index Page](https://github.com/marcojansen-gmx/Online-Offline-Budget-Trackers-with-PWA-and-IndexDB/blob/main/assets/Index.png?raw=true)
 ## Credits
 ------------ | 
 Marco 
