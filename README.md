@@ -35,6 +35,6 @@ Marco
 https://github.com/marcojansen-gmx/Online-Offline-Budget-Trackers-with-PWA-and-IndexDB
 ## heroku link
 
-https://Online-Offline-Budget-Trackers-with-PWA-and-IndexDB.herokuapp.com/
+https://online-offline--budget-tracker.herokuapp.com/
 ## License
 Use for fun permitted. Don't use to educate. Don't claim as your own.
